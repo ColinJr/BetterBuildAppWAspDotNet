@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj": {}
+    "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj": {
+    "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj",
+        "projectPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj",
         "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\obj\\",
+        "outputPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,12 @@
               ]
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.2, )"
             },
