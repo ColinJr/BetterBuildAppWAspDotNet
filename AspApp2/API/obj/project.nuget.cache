@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KphaHAlqKPHKrGF0dM7iX7L8qKeFWA+VTlbMvkBcZCbtxzJgnPh5B4lvVIefaNvH2vlr03otoOze9C9ZqEOvhA==",
+  "dgSpecHash": "fRdh7Bi37kzimmJ46CSmQgQIBOWsOKK6mRc1Qg2Szm/eY2JDuIMZoagl1A8enGnYXXDjAuPMf8jjzRiDgS4KVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\colin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\colin\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

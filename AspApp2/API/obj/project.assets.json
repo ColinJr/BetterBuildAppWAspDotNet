@@ -591,11 +591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\API\\API.csproj",
+      "projectPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\api\\API.csproj",
       "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\API\\obj\\",
+      "outputPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
