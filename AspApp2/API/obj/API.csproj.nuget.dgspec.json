@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj": {}
+    "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\BuildAnAppWAspnetCore\\DatingApp\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj": {
+    "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\BuildAnAppWAspnetCore\\DatingApp\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\BuildAnAppWAspnetCore\\DatingApp\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\API.csproj",
+        "projectPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\BuildAnAppWAspnetCore\\DatingApp\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\NewAppAspnetcore\\AspApp2\\API\\obj\\",
+        "outputPath": "C:\\Users\\colin\\OneDrive\\Desktop\\Coding\\BuildAnAppWAspnetCore\\DatingApp\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,35 +42,21 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.1, )",
-              "noWarn": [
-                "NU1605"
-              ]
-            },
-            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
-              "target": "Package",
-              "version": "[5.0.1, )",
-              "noWarn": [
-                "NU1605"
-              ]
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[5.0.0-preview.8.20407.4, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[5.0.0-preview.8.20407.4, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.7.1, )"
             }
           },
           "imports": [
